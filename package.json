@@ -1,0 +1,30 @@
+{
+  "name": "abhishek",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "abhishek",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EnRyuuX7/js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/EnRyuuX7/js/issues"
+  },
+  "homepage": "https://github.com/EnRyuuX7/js#readme"
+}
